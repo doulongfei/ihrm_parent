@@ -1,0 +1,19 @@
+# 服务配置
+server:
+  port: 9001
+
+# spring配置
+spring:
+  application:
+    name: ihrm-company
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ihrm?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+    username: root
+    password: 123456
+
+  jpa:
+    database: mysql
+    show-sql: true
+    open-in-view: true
