@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d187e248-7a3e-4a55-a57d-c60ed50aab87" name="变更" comment="" />
+    <list default="true" id="d187e248-7a3e-4a55-a57d-c60ed50aab87" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/company/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/company/response/DeptListResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +39,12 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -70,16 +88,16 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "jdk.selected.JAVA_MODULE": "jbr-17",
+    "last_opened_file_path": "E:/SAAS/ProjectCode/ihrm/ihrm_parent/ihrm_common/src/main/java/com/ihrm/common",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.28850573",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "spring.configuration.checksum": "24bcdb8d03785f0c20d2521f752a09d3"
+    "spring.configuration.checksum": "4703e4b48f2ccf399b76ff321c20a29e"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -88,6 +106,13 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SAAS\ProjectCode\ihrm\ihrm_parent\ihrm_common\src\main\java\com\ihrm\common" />
+      <recent name="E:\SAAS\ProjectCode\ihrm\ihrm_parent\ihrm_company\src\main\java\com\ihrm\company\controller" />
+      <recent name="E:\SAAS\ProjectCode\ihrm\ihrm_parent\ihrm_company\src\main\java\com\ihrm\company\service" />
+      <recent name="E:\SAAS\ProjectCode\ihrm\ihrm_parent\ihrm_common_model\src\main\java\com\ihrm\domain\company" />
+      <recent name="E:\SAAS\ProjectCode\ihrm\ihrm_parent\ihrm_company\src\main\java\com\ihrm\company\dao" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -102,22 +127,18 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CompanyApplication">
-    <configuration name="CompanyDaoTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ihrm_company" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ihrm.company.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ihrm.company.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.ihrm.company.dao.CompanyDaoTest" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="HTTP 请求.generated-requests | #3">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" requestIdentifier="#3" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests中的所有" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
     </configuration>
     <configuration name="CompanyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ihrm_company" />
@@ -134,8 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP 请求.generated-requests | #3" />
+        <item itemvalue="HTTP 请求.generated-requests | #2" />
+        <item itemvalue="HTTP 请求.generated-requests | #4" />
         <item itemvalue="Spring Boot.CompanyApplication" />
-        <item itemvalue="JUnit.CompanyDaoTest.testAdd" />
+        <item itemvalue="HTTP 请求.generated-requests中的所有" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +173,8 @@
       <updated>1666341812450</updated>
       <workItem from="1666341813862" duration="1132000" />
       <workItem from="1666342983523" duration="2241000" />
-      <workItem from="1666345259779" duration="12264000" />
+      <workItem from="1666345259779" duration="14118000" />
+      <workItem from="1666525033965" duration="2804000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1666450272109</created>
@@ -158,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666450272109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="项目初始化">
+      <created>1666450335550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666450335550</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,10 +208,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="项目初始化" />
     <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
