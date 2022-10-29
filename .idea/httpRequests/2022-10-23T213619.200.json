@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "code": 10000,
+  "message": "操作成功！",
+  "data": {
+    "id": "1584176727044026368",
+    "pid": null,
+    "companyId": "1",
+    "name": "人员测试",
+    "code": null,
+    "managerId": null,
+    "manager": null,
+    "introduce": null,
+    "createTime": null
+  }
+}

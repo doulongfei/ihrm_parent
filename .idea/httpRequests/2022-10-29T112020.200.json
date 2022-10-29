@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "code": 10000,
+  "message": "操作成功！",
+  "data": {
+    "id": "1063705482939731968",
+    "mobile": "13800000001",
+    "username": "cgx",
+    "password": "88012a09484c94fcec9e65b2377c44b9",
+    "enableState": null,
+    "createTime": "2018-11-17T08:08:44.000+00:00",
+    "companyId": "",
+    "companyName": "",
+    "departmentId": "",
+    "timeOfEntry": "2018-11-01T00:00:00.000+00:00",
+    "formOfEmployment": 1,
+    "workNumber": "",
+    "formOfManagement": null,
+    "workingCity": null,
+    "correctionTime": "2018-10-31T16:00:00.000+00:00",
+    "inServiceStatus": 0,
+    "departmentName": ""
+  }
+}

@@ -1,0 +1,144 @@
+GET http://localhost:9002/sys/user?page=1&size=10
+
+<> 2022-10-29T113106.200.json
+
+###
+
+GET http://localhost:9002/sys/user?page=1&size=10
+
+<> 2022-10-29T112853.200.json
+
+###
+
+GET http://localhost:9002/sys/user?page=1&size=10
+
+<> 2022-10-29T112736.200.json
+
+###
+
+GET http://localhost:9002/sys/user?page=1&size=10
+
+<> 2022-10-29T112733.200.json
+
+###
+
+GET http://localhost:9002/sys/user?page=1&size=10
+
+<> 2022-10-29T112730.200.json
+
+###
+
+GET http://localhost:9002/sys/user?page=1&size=10
+
+<> 2022-10-29T112712.200.json
+
+###
+
+GET http://localhost:9002/sys/user
+
+<> 2022-10-29T112521.200.json
+
+###
+
+GET http://localhost:9002/sys/user
+
+<> 2022-10-29T112103.200.json
+
+###
+
+GET http://localhost:9002/sys/user
+
+<> 2022-10-29T112042.200.json
+
+###
+
+GET http://localhost:9002/sys/user
+
+<> 2022-10-29T112026.200.json
+
+###
+
+GET http://localhost:9002/sys/user/1063705482939731968
+
+<> 2022-10-29T112020.200.json
+
+###
+
+GET http://localhost:9002/sys/user
+
+<> 2022-10-29T111847.200.json
+
+###
+
+GET http://localhost:9002/sys/user
+
+<> 2022-10-29T111804.200.json
+
+###
+
+GET http://localhost:9001/company/department/1584176727044026368
+
+<> 2022-10-23T213619.200.json
+
+###
+
+GET http://localhost:9001/company/department
+
+<> 2022-10-23T213607.200.json
+
+###
+
+GET http://localhost:9001/company/department/999
+
+<> 2022-10-23T213555.200.json
+
+###
+
+GET http://localhost:9001/company/department/999
+
+<> 2022-10-23T213548.200.json
+
+###
+
+POST http://localhost:9001/company/department
+Content-Type: application/json
+
+{
+  "id": 999,
+  "name": "人员测试"
+}
+
+<> 2022-10-23T213539.200.json
+
+###
+
+GET http://localhost:9001/company/department/1175311466846683136
+
+<> 2022-10-23T213329.200.json
+
+###
+
+GET http://localhost:9001/company/department
+
+<> 2022-10-23T213321.200.json
+
+###
+
+GET http://localhost:9001/company/department
+
+<> 2022-10-23T213201.200.json
+
+###
+
+GET http://localhost:9001/company/1
+
+<> 2022-10-23T195105.200.json
+
+###
+
+GET http://localhost:9001/company/1
+
+<> 2022-10-23T194803.200.json
+
+###
+

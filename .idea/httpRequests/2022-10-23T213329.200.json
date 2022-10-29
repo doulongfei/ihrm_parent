@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "code": 10000,
+  "message": "操作成功！",
+  "data": {
+    "id": "1175311466846683136",
+    "pid": "",
+    "companyId": "1",
+    "name": "市场部",
+    "code": "SCB",
+    "managerId": "1063705989926227968",
+    "manager": "itcast",
+    "introduce": null,
+    "createTime": null
+  }
+}
